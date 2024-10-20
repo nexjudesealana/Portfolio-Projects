@@ -1,0 +1,3 @@
+[submodule "SHOPIFY-skin-klaro/skin-klaro-theme"]
+	path = SHOPIFY-skin-klaro/skin-klaro-theme
+	url = https://github.com/princeoncada/skin-klaro-theme.git
